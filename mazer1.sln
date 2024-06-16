@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mazer1", "mazer1.vcxproj", "{BF4CD8F0-95FF-4A8F-8973-AB84B5D4684C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clsMazer1", "..\clsMazer1\clsMazer1.vcxproj", "{F24635FE-EBD2-451F-91EF-0FB0D9F92ECB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clsMazer1", "clsMazer1\clsMazer1.vcxproj", "{F24635FE-EBD2-451F-91EF-0FB0D9F92ECB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
